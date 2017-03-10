@@ -20,7 +20,7 @@ language: en
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome To Our Study Group!"
-headlineMain: "Let's Work Together"
+headlineMain: "Let's Learn Together"
 
 # Setup Google Calendar
 # Usage:
