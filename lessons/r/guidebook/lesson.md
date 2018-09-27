@@ -1,0 +1,25 @@
+---
+title: "Introduction to R"
+author: "Jonny Saunders, Cory Costello, Krista DeStasio"
+date: "September 27, 2018"
+layout: page
+visible: true
+output: md_document
+tags:
+  - r
+  - beginner
+---
+
+
+#R Guide
+
+ - **Authors**: Jonny Saunders, Cory Costello, Krista DeStasio
+ - **Research field**: Psychology; Data Science
+ - **Lesson Topic**: introduction to R 
+
+During the 2017 academic year, the UO Data Science Club created an introductory R Guide from lessons presented throughout the year. These resources are available on the uodatascience github account.
+
+https://uodatascience.github.io/R_Guide/
+
+
+
