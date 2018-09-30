@@ -1,25 +1,35 @@
-# University of Oregon Data Science Club
+---
+layout: page
+title: Contributing to the UO Data Science Club
 
-Welcome to the University of Oregon Data Science Club! 
+---
+
+Welcome to the Contributing guideline for the UO Data Science Club. Thanks for taking the time to contribute! 
+
+The following is a set of guidelines for contributing, whether it be by teaching a lesson, fixing the website, helping to plan and organize our various events, or taking on a leadership role.
 
 ### Table of Contents
 
-1. [About the UO Data Science Club](#who-we-are)
+1. [About the UO Data Science Club](#about-the-uo-data-science-club)
     - [Code of Conduct](#code-of-conduct)
+
 2. [How You Can Contribute](#how-you-can-contribute)
     - [Leading a Lesson](#leading-a-lesson)
     - [Creating the Content](#creating-the-content)
     - [Fixing and Updating the Website](#fixing-and-updating-the-website)
+    - [Other Ways to Get Involved](#other-ways-to-get-involved)
 
-### Who We Are
- 
- We are a student-led group formed to provide a supportive space for collaboration on code-based projects. At Data Science Club, graduate students present informal lessons, bring analysis or code issues to workshop as a group, and work together on projects related to coding or data science. More information can be found on our [website](https://uodatascience.github.io/club/), and in our [archived lessons](https://blogs.uoregon.edu/rclub/2013/10/03/welcome/).
+-----
+# About the UO Data Science Club
 
-### Code of Conduct
+Welcome! We are a student-led group formed to provide a supportive space for collaboration on code-based projects. At Data Science Club, graduate students present informal lessons, bring analysis or code issues to workshop as a group, and work together on projects related to coding or data science. More information can be found on our [website](https://uodatascience.github.io/club/), and in our [archived lessons](https://blogs.uoregon.edu/rclub/2013/10/03/welcome/).
+
+## Code of Conduct
 
 We adhere to a [Code of Conduct](https://github.com/uodatascience/club/blob/gh-pages/codeOfConduct.md)
 and by participating, you agree to also uphold this code. Please report any unacceptable behaviour to any of the club facilitators. 
 
+-----
 # How You Can Contribute
 
 ## Leading a Lesson
@@ -58,6 +68,7 @@ Software Carpentry has lots of great resources explaining the why and how of liv
 + The Software Carpentry [instructor training manual](http://carpentries.github.io/instructor-training/) 
 includes many resources about programming education.
 
+
 ### Tips for Leading a Lesson
 
 + **Arrive early**: Come 5 minutes before the lesson starts to set up.
@@ -72,6 +83,8 @@ includes many resources about programming education.
 + **Live-coding**: Use of slides is minimal, majority of lesson involves writing the code WITH the audience during the lesson
 + **Stay on topic**: There is only one hour, if a question arises that is off-topic, you can always suggest discussing afterwards.
 + **Check in with participants**
+
+-----
 
 ## Fixing and updating the website
 
@@ -91,9 +104,10 @@ your changes are as you expect, you'll need to:
 - The built site can also be viewed at your forked version
 (`https:://yourusername.github.io/club`).
 
-### Misc
-* **Join our Gitter Chat:** There are Study Groups all around the world. We use an online [Gitter Chat](https://gitter.im/mozillascience/studyGroup) to connect and share resources and ideas (you can sign in with GitHub, or using a Twitter ID if you're not set up on GitHub just yet). If you'd like to say hello, please introduce yourself in the chat, tell us where you are, and what you're thinking about or planning for your new Study Group. We're looking forward to meeting you.
-* **Read the code of conduct:** this Study Group Program is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
-* **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
- 
-If you are new to GitHub, don't worry, [there's an introduction to it here](https://mozillascience.github.io/study-group-orientation/3.1-collab-vers-github.html). 
+----
+
+## Other Ways to Get Involved
+
+### Taking On A Leadership Role
+
+The planning and organization of the Data Science Club is done by our graduate student facilitators. This is done on a volunteer basis, and we are always looking for people of all skill levels to help create content and organize meetings.
