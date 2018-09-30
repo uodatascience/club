@@ -18,9 +18,9 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "img/andrew-branch-106863.jpg"
-headlineSmall: "Welcome To Our Study Group!"
+headlineSmall: "Welcome To The UO Data Science Club!"
 headlineMain: "Let's Learn Together"
+avatar: "img/logos/logo_icon_dark.png"
 
 # Setup Google Calendar
 # Usage:
